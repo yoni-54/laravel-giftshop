@@ -25,4 +25,21 @@ A Laravel-based gift shop with an admin panel to manage products, categories, an
 5. Start the development server
    php artisan serve
 
+## Usage
+- Visit `http://127.0.0.1:8000` in your browser.
+- To access the admin panel, change the `usertype` to `admin` in the 
+  database for a user. 
+- Admins can log in to manage products, categories, and orders.
+- Customers can browse, add items to the cart, and place orders.
+
+## Technologies Used
+Laravel 10
+Bootstrap 5
+MySQL
+JavaScript 
+
+##License
+This project is licensed under the MIT License.
+
+This will display perfectly in the GitHub README section. Simply paste it into your repository's **README.md** file, and GitHub will render the markdown automatically!
 
